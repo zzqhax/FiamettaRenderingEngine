@@ -1,2 +1,2 @@
 # FiamettaRenderingEngine
-A rendering engine mede by d3d.
+A rendering engine made by d3d.
