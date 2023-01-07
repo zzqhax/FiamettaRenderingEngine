@@ -1,0 +1,3 @@
+﻿  WinMain.cpp
+F:\FiamettaRenderingEngine\FiamettaRenderingEngine\WinMain.cpp(82,13): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  FiamettaRenderingEngine.vcxproj -> F:\FiamettaRenderingEngine\FiamettaRenderingEngine\x64\Debug\FiamettaRenderingEngine.exe
